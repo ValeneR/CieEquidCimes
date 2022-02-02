@@ -1,4 +1,4 @@
-# Equid'Cimes
+# Compagnie Equid'Cimes
 
 ## Presentation
 
