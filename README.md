@@ -13,9 +13,10 @@ This a personnal project. It's a website for my medieval association, to present
 
 ### Install
 1. Clone this project
-2. Run composer install
-3. Run yarn install
-4. Run yarn encore dev to build assets
+2. Create .env.local and your bdd
+3. Run composer install
+4. Run yarn install
+5. Run yarn encore dev to build assets
 
 ### Working
 1. Run symfony server:start to launch your local php web server
