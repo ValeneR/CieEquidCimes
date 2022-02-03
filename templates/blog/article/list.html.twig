@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Wild Series</title>
+</head>
+<body>
+   <h1>{{ website }} index</h1>
+
+    <a href="{{ path('article_list', {page: 1}) }}">précédent<a>
+    <h4>Page {{ page }}</h4> 
+    <a href="{{ path('article_list', {page: 2}) }}">suivant<a>
+</body>
+</html>
